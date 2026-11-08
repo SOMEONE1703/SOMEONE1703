@@ -6,9 +6,7 @@ I'm Siphelele, a software engineer at Investec in Johannesburg 🇿🇦. I studi
 
 🔭 I like exploring new technologies to see what I can build with them
 
-🎮 Outside work I build games, from multiplayer board games to a whole catalogue of browser games
-
-🖥️ I also enjoy building PCs and tinkering with hardware
+🎮 Outside work, you'll find me coding side projects, playing or building games, or building PCs
 
 ## Languages and tools
 
